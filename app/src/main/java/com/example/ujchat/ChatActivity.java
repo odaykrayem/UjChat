@@ -136,6 +136,7 @@ public class ChatActivity extends AppCompatActivity {
         newMessageMap.put("creator", FirebaseAuth.getInstance().getUid());
 
         if(!mMessage.getText().toString().isEmpty())
+            //TODO : encrypt message
             newMessageMap.put("text", mMessage.getText().toString());
 
 

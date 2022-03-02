@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">UjChat</string>
+    <string name="resend_code">Resend code</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_receive_the_code">didn\'t receive code.</string>
+    <string name="enter_the_code_sent_to">Enter the code sent to</string>
+    <string name="number_verification">Code verification</string>
+    <string name="get_code">Get Code</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="_963">+963</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="we_will_send_you_one_time_code_on_this_mobile_number">we wil send you one time code on this mobile number</string>
+    <string name="intro">Enjoy your chatting \n \n You are secured</string>
+    <string name="app_name_intro">UJ secure chatting</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_id">Enter Your ID</string>
+    <string name="forget_pass">Forget your password ?</string>
+    <string name="reset_now">Reset Now</string>
 </resources>

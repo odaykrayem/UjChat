@@ -3,4 +3,16 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorP">#2742DC</color>
+    <color name="colorA">#f44336</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
 </resources>
