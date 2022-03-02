@@ -16,4 +16,7 @@
     <string name="hint_id">Enter Your ID</string>
     <string name="forget_pass">Forget your password ?</string>
     <string name="reset_now">Reset Now</string>
+    <string name="question_dont_have_acc">Don\'t have an account ?</string>
+    <string name="join_us_now">Join us now</string>
+    <string name="login">Login</string>
 </resources>

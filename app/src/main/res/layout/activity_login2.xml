@@ -13,7 +13,7 @@
         android:layout_height="250dp"
         android:padding="16dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="50dp"
+        android:layout_marginBottom="80dp"
         android:layout_marginTop="10dp"
         android:src="@drawable/ic_launcher_background"
         android:background="@color/colorAccent"/>
@@ -62,7 +62,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/layout_input"
         android:layout_marginStart="20dp"
-
+        android:layout_marginBottom="50dp"
         >
         <TextView
             android:id="@+id/question_forget"
@@ -71,17 +71,50 @@
             android:text="@string/forget_pass"
             android:textSize="18sp"
             android:textColor="@color/black"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="9dp"
             />
         <TextView
             android:id="@+id/tv_forget_pass"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/reset_now"
-            android:textSize="18sp"
+            android:text="@string/forget_pass"
+            android:textSize="16sp"
             android:textColor="@color/blue"
-            android:layout_toEndOf="@id/question_forget"
+            android:layout_toEndOf="@id/question_dont_have_acc"
+            android:layout_marginBottom="9dp"
             />
 
+        <TextView
+            android:id="@+id/question_dont_have_acc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/question_dont_have_acc"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginEnd="5dp"
+            android:layout_below="@id/question_forget"
+            />
+        <TextView
+            android:id="@+id/tv_join_us"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/join_us_now"
+            android:textSize="16sp"
+            android:textColor="@color/blue"
+            android:layout_toEndOf="@id/question_dont_have_acc"
+            android:layout_below="@id/tv_forget_pass"
+            />
     </RelativeLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:text="@string/login"
+        android:textAllCaps="false"
+        android:layout_below="@id/layout_options"
+        android:layout_centerHorizontal="true"
+        />
 
 </RelativeLayout>
