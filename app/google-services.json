@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074173611253",
+    "firebase_url": "https://ujchat-b0748-default-rtdb.firebaseio.com",
+    "project_id": "ujchat-b0748",
+    "storage_bucket": "ujchat-b0748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074173611253:android:bc1e3e32454ee95a0609bc",
+        "android_client_info": {
+          "package_name": "com.example.ujchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074173611253-s8aoab9596qcflr9lcpml9n650dqq382.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ujchat",
+            "certificate_hash": "cb65944b1ef34371402d0dc6b0a28f6cfb7c0499"
+          }
+        },
+        {
+          "client_id": "1074173611253-nnhv3i06r35k8c5bid41d1v7l7lthec1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqyLtpVStjILORqA2GaYsguCfV6GJO_eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074173611253-nnhv3i06r35k8c5bid41d1v7l7lthec1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
