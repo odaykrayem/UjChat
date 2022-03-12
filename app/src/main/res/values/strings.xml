@@ -19,4 +19,18 @@
     <string name="question_dont_have_acc">Don\'t have an account ?</string>
     <string name="join_us_now">Join us now</string>
     <string name="login">Login</string>
+    <string name="login_title">Login</string>
+    <string name="join_our_community">Join Our Secured Community</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="signup">Sign up</string>
+    <string name="first_step">First Step :</string>
+    <string name="first_step_txt">a code has been sent to your registered phone number \n for verification purposes</string>
+    <string name="enter_the_code_below">Enter the code below and Don\'t share it</string>
+    <string name="next">Next</string>
+    <string name="second_step">Second step :</string>
+    <string name="second_step_txt">a code has been sent to your registered to your UJ email address \n for verification purposes</string>
+    <string name="please_wait">please wait , we are verifying your identity</string>
+    <string name="enjoy_your_chatting">Enjoy your chatting</string>
+    <string name="you_are_secured">You Are Secured</string>
 </resources>
